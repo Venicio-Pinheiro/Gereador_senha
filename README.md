@@ -1,1 +1,1 @@
-Adicionando o arquivo de README.
+Visual do formulário Gerar Senha.
